@@ -1,3 +1,7 @@
+/**
+*Miau.java 
+*@Fzchuspi215
+**/
 import java.util.Scanner;
 public class miau{
 	static Scanner teclado = new Scanner(System.in);
